@@ -11,6 +11,10 @@
 - ⚡ Fun fact: ... Crazy programer
 -->
 
+![](https://media-exp1.licdn.com/dms/image/C5616AQFXC2_I3hQBYQ/profile-displaybackgroundimage-shrink_200_800/0/1619369552124?e=1651708800&v=beta&t=flvATTcfdma20tlsWGNu725Kt4uqP-kzcjtW6NSWNNc)
+
+Welcome to my Github! This is Morshed Alam. I am a full stack developer and currently staying in Bangladesh. I am a person, who has high passion in web development, Mobile application development. One of my dreams is to master all the technologies and become one of the TOP developer in the world, and now, I am working toward it!
+
 
 ### Connect with me
 
