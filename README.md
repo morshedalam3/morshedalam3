@@ -37,3 +37,12 @@
 <br />
 <br />
 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/morshedalam3)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/morshedalam3&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/morshedalam3)  
+
